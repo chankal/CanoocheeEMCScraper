@@ -1,0 +1,4 @@
+outageRecID,outageName,outagePoint,outageStartTime,estimatedTimeOfRestoral,outageEndTime,verified,cause,crewAssigned,customersOutInitially,customersOutNow,customersRestored,streetsAffected,outageModifiedTime,outageWorkStatus
+2024-01-27-0472,T14174001,"{'lat': 32.16424949657445, 'lng': -81.61269458426659}",2024-01-27T17:36:50-05:00,,,FALSE,,FALSE,1,1,0,,2024-01-31T08:32:50-05:00,
+2024-02-02-0019,T14473002,"{'lat': 32.16425379418069, 'lng': -81.46688636758991}",2024-02-02T09:02:12-05:00,,,FALSE,,FALSE,4,4,0,,2024-02-02T09:08:56.3370000-05:00,
+2024-02-01-0004,T33722005,"{'lat': 31.874585746934464, 'lng': -81.83293128443997}",2024-02-01T08:25:28-05:00,,,FALSE,,FALSE,1,1,0,,2024-02-01T11:24:48-05:00,
